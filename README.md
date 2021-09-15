@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrutyunjay_Mahanta
 - 👀 I’m interested in ... Data science
 - 🌱 I’m currently learning ... python, Data science,Machine learning 
-- 💞️ Reac me at mrutyunjaymahanta30@gmail.com
+- 💞️ Reach me at mrutyunjaymahanta30@gmail.com
 - 📫 My linkedin profile is https://www.linkedin.com/in/mrutyunjay-mahanta-01343b15b/
 
 <!---
