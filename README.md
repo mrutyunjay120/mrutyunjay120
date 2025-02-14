@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mrutyunjay_Mahanta
-- 👀 I’m interested in ... Data science
-- 🌱 I’m currently learning ... python, Data science,Machine learning 
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently working at Krawlnet Technologies Pvt. Ltd with ... python, Scrapy, Django, my SQL, JSON, Regular Expression, Post Request
 - 💞️ Reach me at mrutyunjaymahanta30@gmail.com
-- 📫 My linkedin profile is https://www.linkedin.com/in/mrutyunjay-mahanta-01343b15b/
+- 📫 My LinkedIn profile is https://www.linkedin.com/in/mrutyunjay-mahanta-01343b15b/
 
 <!---
 mrutyunjay120/mrutyunjay120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
